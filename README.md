@@ -3,7 +3,7 @@
 ## À propos de moi
 
 - 👨‍🎓 J'ai 26 ans et je suis titulaire d'une licence en informatique.
-- 💼 Je travaille actuellement en tant qu'ingénieur DevOps Junior, où j'acquiers de l'expérience pratique dans la gestion des serveurs, l'administration de bases de données, l'environnement Linux et la sécurité.
+- 💼 Je travaille actuellement en tant qu'ingénieur DevOps Junior au sein d'une start-up en cybersécurité, où j'acquiers de l'expérience pratique dans la gestion des serveurs, l'administration de bases de données, l'environnement Linux et la sécurité.
 - 📚 Je suis passionné par l'intelligence artificielle, l'apprentissage automatique et les technologies connexes.
 - 🎓 Je suis désireux de poursuivre un master ou une formation en ligne dans le domaine de l'ingénierie en intelligence artificielle et l'apprentissage automatique.
 
